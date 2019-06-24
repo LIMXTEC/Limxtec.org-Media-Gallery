@@ -19,6 +19,6 @@ Welcome to LIMXTEC Media Gallery. Here you will find graphics, logos and documen
 + [250x250px](https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/tree/master/BitCore/Logos/BitCoreLogoFull250x250px.png)
 
 
-### Black & White Logos:
+#### Black & White Logos:
 + [353x42px](https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/tree/master/BitCore/Logos/BitcoreLinkBlack.png)
 + [353x42px](https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/tree/master/BitCore/Logos/BitcoreLinkWhite.png)
