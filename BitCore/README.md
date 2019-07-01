@@ -26,7 +26,7 @@ Please do not edit, change, distort, color or readjust the BitCore logo.
 Vertical<br>
 <img src="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/BitCoreLogoFullVertical285x350px.png" alt="Logo BitCore Full Color" style="max-width:100%;">
 
-Landspace
+Landspace<br>
 <img src="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/BitCoreLogoLandscapeFull400x126px.png" alt="Logo BitCore Full Color" style="max-width:100%;">
 
 # Name Origins
