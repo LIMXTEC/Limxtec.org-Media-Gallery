@@ -23,6 +23,7 @@ BitCore is a hybrid fork – something completely unique among the crypto space 
 # OUR LOGO
 Please do not edit, change, distort, color or readjust the BitCore logo.
 *If the space where you are going to place the logo is less than 350 x 350 pixels please use the logo on the right (without circuits)
+
 <img src="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFullVertical285x350px.png" alt="Logo BitCore Full Color" style="max-width:100%;">
 <img src="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoLandscapeFull400x126px.png" alt="Logo BitCore Full Color" style="max-width:100%;">
 
@@ -40,7 +41,7 @@ This is our web presence and communities {this section is in constant evolution}
 
 # BitCore - Graphics Files
 
-Logo BitCore Full Color<br>
+Logo BitCore Full Color
 <img src="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFull250x250px.png" alt="Logo BitCore Full Color" style="max-width:100%;">
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFull3000x3000px.png">3000px</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFull1500x1500px.png">1500px</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFull1440x1440px.png">1440px</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFull800x800px.png">800px</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFull512x512px.png">512px</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFull250x250px.png">250px</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFull100x100px.png">100px</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/LIMXTEC/Limxtec.org-Media-Gallery/blob/master/BitCore/Logos/BitCoreLogoFull90x90px.png">90px</a>
