@@ -23,7 +23,7 @@ BitCore is a hybrid fork – something completely unique among the crypto space 
 # OUR LOGO
 Please do not edit, change, distort, color or readjust the BitCore logo.
 *If the space where you are going to place the logo is less than 350 x 350 pixels please use the logo on the right (without circuits)
-Vertical
+Vertical<br>
 <img src="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/BitCoreLogoFullVertical285x350px.png" alt="Logo BitCore Full Color" style="max-width:100%;">
 
 Landspace
