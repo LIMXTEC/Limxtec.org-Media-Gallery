@@ -71,7 +71,7 @@ BitCore Socialmedia footers<br>
 Black <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/Limxtec%2BSegwitBlack.png">Limxtec+Segwit</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/BitcoreLinkBlack.png">link</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/BitCoreSocialMediaBlack.png">Socialmedia icons</a><br>
 White <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/Limxtec%2BSegwitWhite.png">Limxtec+Segwit</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/BitcoreLinkWhite.png">link</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/BitCoreSocialMediaWhite.png">Socialmedia icons</a>
 
-Logo BitCore in SVG
+Logo BitCore in SVG<br>
 <img src="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/BitCoreLogoFull250x250px.png" alt="Logo BitCore SGV" style="max-width:100%;">
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/LogoBitcoreBTXmay2019.svg">Solid</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/LogoBitcoreBTXmay2019degree.svg">Degree</a>
