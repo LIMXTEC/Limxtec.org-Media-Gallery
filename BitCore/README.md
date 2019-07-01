@@ -76,7 +76,7 @@ Logo BitCore in SVG<br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/LogoBitcoreBTXmay2019.svg">Solid</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/LogoBitcoreBTXmay2019degree.svg">Degree</a>
 
-Logo BitCore solid color PNG
+Logo BitCore solid color PNG<br>
 <img src="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/LogoBitCoreBlackSolidColor.png" alt="Logo BitCore Solid Color" style="max-width:50%;">
 
 500x500px <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/LogoBitCoreBlackSolidColor.png">Black</a> | <a target="_blank" rel="noopener noreferrer" href="https://github.com/dgcarlosleon/Bitcore-BTX-graphic-identity/blob/master/LogoBitCoreWhiteSolidColor.png">White</a>
