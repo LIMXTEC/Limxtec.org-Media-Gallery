@@ -1,5 +1,6 @@
 **BitCore Sticker** Printing Template, you can use these stickers to tell your users that 
 you **accept BitCore BTX** as a form of payment.
+
 <img src="https://bitcore.cc/wp-content/uploads/2019/08/StickersDinA4AcceptHereBitCoreAug2019engSolo.png" alt="Logo Bitcore" data-canonical-src="https://bitcore.cc/wp-content/uploads/2019/08/StickersDinA4AcceptHereBitCoreAug2019engSolo.png" style="max-width:100%;">
 
 **#useBitCore** 
